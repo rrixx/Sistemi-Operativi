@@ -1,0 +1,1 @@
+quando il job corrente ha esaurito il tempo dedicato oppure si sospende in attesa di un altro evento, il SO assegna il nuovo job alla CPU

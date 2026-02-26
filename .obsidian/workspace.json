@@ -1,0 +1,233 @@
+{
+  "main": {
+    "id": "a684fdf9869cdfe5",
+    "type": "split",
+    "children": [
+      {
+        "id": "e562a3357d4fdd55",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0e74779c51a2bf38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sistemi Operativi/_assets/creazione di processi.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "creazione di processi"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "503b419e3b227b60",
+    "type": "split",
+    "children": [
+      {
+        "id": "9da442c6ca571680",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e5c1c9e78448fe1d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "ceb5456ddb40aa34",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "247ccf6a617ccafa",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "ab9a40372601e856",
+    "type": "split",
+    "children": [
+      {
+        "id": "5eb66be0e77016e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "40bb19a86b772473",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Sistemi Operativi/1. Intro.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 1. Intro"
+            }
+          },
+          {
+            "id": "adbeb5b1c1e6f65c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Sistemi Operativi/1. Intro.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 1. Intro"
+            }
+          },
+          {
+            "id": "1b705103269f8c07",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "ceafa0579ebf9149",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "02bd29fcad5d2f9e",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Sistemi Operativi/1. Intro.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 1. Intro"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "obsidian-git:Open Git source control": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "0e74779c51a2bf38",
+  "lastOpenFiles": [
+    "Sistemi Operativi/Processi Unix.md",
+    "Sistemi Operativi/_assets/esempio funzione perror.md",
+    "Sistemi Operativi/_assets/sospensione.md",
+    "Sistemi Operativi/_assets/sostituzione di codice e dati.md",
+    "Sistemi Operativi/_assets/terminazione.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-26 100056.png",
+    "Sistemi Operativi/_assets/creazione di processi.md",
+    "Sistemi Operativi/2. Struttura di un SO.md",
+    "Sistemi Operativi/_assets/gestione della memoria centrale.md",
+    "Sistemi Operativi/_assets/interfaccia utente-programmatore.md",
+    "Sistemi Operativi/_assets/gestione della memoria secondaria e file system.md",
+    "Sistemi Operativi/3. Processi e Thread.md",
+    "Sistemi Operativi/_assets/componenti Immagine di un processo UNIX.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-26 093649.png",
+    "Sistemi Operativi/_assets/User Structure.md",
+    "Sistemi Operativi/_assets/text table.md",
+    "Sistemi Operativi/_assets/Process Structure.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-26 092325.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-26 091632.png",
+    "Sistemi Operativi/_assets/relazione padre-figlio.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-26 090730.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-26 090718.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-26 090710.png",
+    "Untitled.md",
+    "Sistemi Operativi/_assets/realizzazione a livello utente.md",
+    "Sistemi Operativi/_assets/realizzazione a livello kernel.md",
+    "Sistemi Operativi/_assets/soluzioni adottate.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-25 180414.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-25 175852.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-02-25 174858.png",
+    "Untitled.canvas",
+    "Sistemi Operativi/_assets/virtualizzazione.md",
+    "Sistemi Operativi/_assets/kernel modulari.md",
+    "Sistemi Operativi/_assets/kernel.md",
+    "Sistemi Operativi/_assets/gestione dei processi.md",
+    "Sistemi Operativi/_assets/gestione dispositivi di Input-Output.md",
+    "Sistemi Operativi/_assets/protezione e sicurezza.md",
+    "gestione dispositivi di I",
+    "dispositivi di I",
+    "Sistemi Operativi/_assets",
+    "_assets",
+    "Untitled.base",
+    "Sistemi Operativi"
+  ]
+}

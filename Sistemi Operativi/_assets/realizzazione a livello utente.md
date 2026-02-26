@@ -1,0 +1,2 @@
+- il passaggio da un thread al successivo **non richiede interruzioni del SO**
+- la sospensione si un thread causa la sospensione di tutti i thread di quel task 
