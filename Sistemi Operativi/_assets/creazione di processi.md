@@ -39,3 +39,7 @@ main() {
 ```
 
 andranno dunque avanti due processi distinti 
+
+**esempio esecuzioni differenziate** 
+
+![[Screenshot 2026-02-27 113257.png|550]]
