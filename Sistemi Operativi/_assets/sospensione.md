@@ -73,3 +73,19 @@ main()
     }
 }
 ```
+
+
+_FUNZIONE waitpid()_
+
+sintassi: 
+```c
+#include<sys/wait.h> //libreria 
+
+int waitpid(int pid, int *status, int options);
+```
+restituisce il pid del figlio terminato o -1 in caso di errore
+
+
+- **pid**  indica quale processo in particolare il padre dovrà aspettare (se passato -1 si  comporta come la wait normale )
+- **status** è il puntatore alla variabile interna (come nella wait normale)
+- **options** permette di  cambiare il comportamento della funzione, passando 0  la funzione è bloccante, quindi il padre si ferma e aspetta pazientemente finché quel figlio non termina

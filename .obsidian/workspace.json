@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/4. Processi Unix.md",
+                "file": "Sistemi Operativi/_assets/sospensione.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "4. Processi Unix"
+              "title": "sospensione"
             }
           },
           {
@@ -214,8 +214,8 @@
   },
   "active": "ae03686baf1aa11c",
   "lastOpenFiles": [
-    "Sistemi Operativi/_assets/terminazione.md",
     "Sistemi Operativi/4. Processi Unix.md",
+    "Sistemi Operativi/_assets/terminazione.md",
     "Sistemi Operativi/_assets/sospensione.md",
     "Sistemi Operativi/5. Scheduling CPU.md",
     "Sistemi Operativi/6. Interazione tra Processi.md",
