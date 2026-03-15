@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "Sistemi Operativi/7. Segnali Unix.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -171,8 +171,9 @@
   },
   "active": "4d883823149dc197",
   "lastOpenFiles": [
-    "Sistemi Operativi/_assets/varianti system call exec().md",
     "Sistemi Operativi/_assets/segnali nel sistema.md",
+    "Sistemi Operativi/7. Segnali Unix.md",
+    "Sistemi Operativi/_assets/varianti system call exec().md",
     "Sistemi Operativi/_assets/esempio system call sleep.md",
     "Sistemi Operativi/_assets/esempio system call pause.md",
     "Sistemi Operativi/_assets/esempio system call kill.md",
@@ -193,7 +194,6 @@
     "Sistemi Operativi/_assets/Screenshot 2026-03-11 110048.png",
     "/Sistemi Operativi/_assets",
     "/Sistemi Operativi/7. Segnali Unix.md",
-    "Sistemi Operativi/7. Segnali Unix.md",
     "/Sistemi Operativi",
     "Sistemi Operativi/_assets/sostituzione di codice e dati.md",
     "Sistemi Operativi/4. Processi Unix.md",
