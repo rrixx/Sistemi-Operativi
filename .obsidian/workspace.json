@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/7. Segnali Unix.md",
+                "file": "Sistemi Operativi/_assets/organizzazione fisica.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "7. Segnali Unix"
+              "title": "organizzazione fisica"
             }
           }
         ]
@@ -184,19 +184,33 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae03686baf1aa11c",
+  "active": "e5c1c9e78448fe1d",
   "lastOpenFiles": [
-    "Sistemi Operativi/_assets/esempio hanlder.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 104409.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 104059.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 103931.png",
+    "Sistemi Operativi/8. File System.md",
+    "Sistemi Operativi/_assets/organizzazione fisica.md",
+    "Sistemi Operativi/_assets/accesso.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 102950.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 102602.png",
+    "Sistemi Operativi/_assets/direttorio.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 100810.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 100804.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 100758.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 100753.png",
+    "Sistemi Operativi/_assets/file.md",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 100322.png",
+    "Sistemi Operativi/_assets/Screenshot 2026-03-17 095357 2.png",
     "Sistemi Operativi/7. Segnali Unix.md",
+    "Sistemi Operativi/_assets/esempio hanlder.md",
     "Sistemi Operativi/_assets/esempio signal.md",
     "Sistemi Operativi/_assets/esempio system call pause.md",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-11 113755.png",
     "Sistemi Operativi/_assets/esempio system call sleep.md",
     "Sistemi Operativi/_assets/segnali nel sistema.md",
     "Sistemi Operativi/6. Interazione tra Processi.md",
     "Sistemi Operativi/_assets/esempio system call kill.md",
     "Sistemi Operativi/_assets/esempi comando kill.md",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-11 110048.png",
     "Senza nome.md",
     "Sistemi Operativi/5. Scheduling CPU.md",
     "Sistemi Operativi/_assets/BUFFERING DEL CANALE.md",
@@ -208,19 +222,6 @@
     "Sistemi Operativi/_assets/Scheduling in Unix.md",
     "Sistemi Operativi/_assets/algoritmo di scheduling Round Robin.md",
     "Sistemi Operativi/_assets/Comunicazione processi Unix.md",
-    "Sistemi Operativi/_assets/escludersi mutuamente.md",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 140731.png",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 122616.png",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 121517.png",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 120519.png",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 115933.png",
-    "Sistemi Operativi/_assets/COMUNICAZIONE INDIRETTA.md",
-    "Sistemi Operativi/_assets/COMUNICAZIONE DIRETTA.md",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 120350.png",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 120227.png",
-    "Sistemi Operativi/_assets/meccanismi di comunicazione.md",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-03 115105.png",
-    "Sistemi Operativi/_assets/vincoli temporali sull'esecuzione.md",
     "Untitled.canvas",
     "gestione dispositivi di I",
     "dispositivi di I",
