@@ -1,0 +1,7 @@
+- **boot block**: contiene le procedure di inizializzazione del sistema
+- **super block** fornisce: 
+			- i limiti delle 4 regioni
+			- puntatore a una lista di blocchi liberi
+			- puntatore a una lista degli i-node liberi
+- **data blocks**: area del disco disponibile per la memorizzazione dei file 
+- **i-list**: contiene la lista di tutti i descrittori di file ([[i-node]]), direttori e dispositivi presenti nel file system 
