@@ -164,13 +164,23 @@
               "icon": "lucide-list",
               "title": "Outline of 1. Intro"
             }
+          },
+          {
+            "id": "e1adfef7ccf4af01",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -184,11 +194,17 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e5c1c9e78448fe1d",
+  "active": "ae03686baf1aa11c",
   "lastOpenFiles": [
+    "esempio di stat.md",
+    "Sistemi Operativi/9. File System Unix.md",
+    "struttura di tipo stat.md",
+    "esempio lseek.md",
+    "esempi di read e write.md",
+    "esempio di chiusura.md",
+    "esempi di open e create.md",
     "Sistemi Operativi/_assets/esempio di accesso allo stesso file.md",
     "Sistemi Operativi/_assets/Screenshot 2026-03-18 113827.png",
-    "Sistemi Operativi/9. File System Unix.md",
     "Sistemi Operativi/_assets/Screenshot 2026-03-18 113731.png",
     "Sistemi Operativi/_assets/Screenshot 2026-03-18 113409.png",
     "Sistemi Operativi/_assets/Screenshot 2026-03-18 113135.png",
@@ -216,11 +232,6 @@
     "Sistemi Operativi/6. Interazione tra Processi.md",
     "Sistemi Operativi/_assets/esempio system call kill.md",
     "Sistemi Operativi/_assets/esempi comando kill.md",
-    "Sistemi Operativi/5. Scheduling CPU.md",
-    "Sistemi Operativi/_assets/BUFFERING DEL CANALE.md",
-    "Sistemi Operativi/_assets/sospensione.md",
-    "Sistemi Operativi/4. Processi Unix.md",
-    "Sistemi Operativi/_assets/sostituzione di codice e dati.md",
     "Untitled.canvas",
     "gestione dispositivi di I",
     "dispositivi di I",
