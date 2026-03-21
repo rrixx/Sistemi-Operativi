@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/_assets/ESERCIZIO GESTIONE FILE.md",
+                "file": "Sistemi Operativi/9. File System Unix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ESERCIZIO GESTIONE FILE"
+              "title": "9. File System Unix"
             }
           },
           {
@@ -35,8 +35,7 @@
               "title": "9. File System Unix"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,11 +209,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9a3bba690a13ced4",
+  "active": "ae03686baf1aa11c",
   "lastOpenFiles": [
-    "Sistemi Operativi/_assets/esempi di open e create.md",
-    "Sistemi Operativi/9. File System Unix.md",
     "Sistemi Operativi/_assets/ESERCIZIO GESTIONE FILE.md",
+    "Sistemi Operativi/9. File System Unix.md",
+    "Sistemi Operativi/_assets/esempi di open e create.md",
     "Sistemi Operativi/_assets/esempio system call dup.md",
     "Sistemi Operativi/_assets/ridirezione e piping di comandi.md",
     "Sistemi Operativi/_assets/esempio comunicazione tra padre e figlio.md",
