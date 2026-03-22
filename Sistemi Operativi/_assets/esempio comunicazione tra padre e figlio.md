@@ -16,13 +16,13 @@ main()
     if (pid==0)
     {   /* figlio */
 	    //si aggancia al lato di scrittura
-        close(fd[0]);
+        close(fd[0]); //chiude la parte di lettura 
         write(fd[1], msg, 10);
         ...
     }
     else /* padre */
     {   //si aggancia al lato di lettura 
-	     close(fd[1]);
+	     close(fd[1]); //chiude la parte di scritura
         read(fd[0], msg, 10);
         ...
     }
