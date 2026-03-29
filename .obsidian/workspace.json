@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/9. File System Unix.md",
-                "mode": "preview",
+                "file": "Sistemi Operativi/10 File Comandi Unix.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "9. File System Unix"
+              "title": "10 File Comandi Unix"
             }
           }
         ]
@@ -195,11 +195,18 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae03686baf1aa11c",
+  "active": "e5c1c9e78448fe1d",
   "lastOpenFiles": [
-    "Sistemi Operativi/_assets/esempio comunicazione tra padre e figlio.md",
+    "Sistemi Operativi/_assets/Pasted image 20260329112237.png",
+    "Sistemi Operativi/_assets/esempio valutazione di espressione.md",
+    "Sistemi Operativi/10 File Comandi Unix.md",
     "Sistemi Operativi/9. File System Unix.md",
+    "Sistemi Operativi/_assets/esempi variabili nella shell.md",
+    "Sistemi Operativi/_assets/esempi metacaratteri.md",
+    "Sistemi Operativi/_assets/esempi comando awk.md",
+    "Sistemi Operativi/_assets/esempi ridirezione input e output.md",
     "Sistemi Operativi/_assets/ESERCIZIO GESTIONE FILE.md",
+    "Sistemi Operativi/_assets/esempio comunicazione tra padre e figlio.md",
     "Sistemi Operativi/_assets/pipe.md",
     "Sistemi Operativi/_assets/esempio di stat.md",
     "esempi di accesso allo stesso file.md",
@@ -226,13 +233,6 @@
     "Sistemi Operativi/8. File System.md",
     "Sistemi Operativi/_assets/i-node.md",
     "Sistemi Operativi/_assets/partizione del File System.md",
-    "Sistemi Operativi/_assets/organizzazione fisica.md",
-    "Readme.md.md",
-    "Sistemi Operativi/_assets/accesso.md",
-    "Sistemi Operativi/_assets/direttorio.md",
-    "Sistemi Operativi/_assets/file.md",
-    "Sistemi Operativi/7. Segnali Unix.md",
-    "Sistemi Operativi/_assets/esempio hanlder.md",
     "Untitled.canvas",
     "gestione dispositivi di I",
     "dispositivi di I",
