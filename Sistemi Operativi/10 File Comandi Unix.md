@@ -1,3 +1,4 @@
+[[LISTA COMANDI UNIX]]
 i comandi in Unix si comportano come **filtri**, ovvero programi che da un input producono risultati su uno o più output 
 
 _comandi shell filtri_: 
@@ -299,3 +300,6 @@ scrivendo _for i_ si itera con i valori di $*
 **cicli non enumerativi**
 con _while_ o _until_ 
 ![[Pasted image 20260329160806.png|328]] 
+
+
+[[TABELLA RIASSUNTIVA SHELL SCRIPTING]]

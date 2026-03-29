@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/10 File Comandi Unix.md",
+                "file": "Sistemi Operativi/_assets/TABELLA RIASSUNTIVA SHELL SCRIPTING.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 File Comandi Unix"
+              "title": "TABELLA RIASSUNTIVA SHELL SCRIPTING"
             }
           }
         ]
@@ -197,9 +197,11 @@
   },
   "active": "e5c1c9e78448fe1d",
   "lastOpenFiles": [
+    "Sistemi Operativi/10 File Comandi Unix.md",
+    "Sistemi Operativi/_assets/TABELLA RIASSUNTIVA SHELL SCRIPTING.md",
+    "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
     "Sistemi Operativi/_assets/Pasted image 20260329160806.png",
     "Sistemi Operativi/_assets/esempi cicli for.md",
-    "Sistemi Operativi/10 File Comandi Unix.md",
     "Sistemi Operativi/_assets/Pasted image 20260329160437.png",
     "Sistemi Operativi/_assets/esempi alternativa multipla.md",
     "Sistemi Operativi/_assets/Pasted image 20260329155806.png",
@@ -226,13 +228,11 @@
     "Sistemi Operativi/_assets/Screenshot 2026-03-20 171648.png",
     "Sistemi Operativi/_assets/Screenshot 2026-03-20 171511.png",
     "Sistemi Operativi/_assets/Screenshot 2026-03-20 161803.png",
-    "Sistemi Operativi/_assets/Screenshot 2026-03-20 161719.png",
     "Sistemi Operativi/_assets/esempi vari.md",
     "Sistemi Operativi/_assets/struttura di tipo stat.md",
     "Sistemi Operativi/_assets/esempio lseek.md",
     "Sistemi Operativi/_assets/esempi di read e write.md",
     "Sistemi Operativi/_assets/esempio di chiusura.md",
-    "Sistemi Operativi/_assets/esempio di accesso allo stesso file.md",
     "Untitled.canvas",
     "gestione dispositivi di I",
     "dispositivi di I",
