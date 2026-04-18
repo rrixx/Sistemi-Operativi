@@ -1,4 +1,4 @@
-[[LISTA COMANDI UNIX]] 
+[[LISTA COMANDI UNIX]]
 i comandi in Unix si comportano come **filtri**, ovvero programi che da un input producono risultati su uno o più output 
 
 _comandi shell filtri_: 
@@ -114,7 +114,7 @@ l'**ESPANSIONE** si articola in vari passaggi:
 a volte tuttavia è necessario evitare che determinati caratteri vengano trattati in un certo modo, per questo è possibile l'**INIBIZIONE DELL'ESPANSIONE**:
 - **protezione singola** \ (backslash): annulla il signigicato speciale del carattere immediatamente successvo
 - **protezione forte** _''_ : qualsiasi cosa scritta al loro interno viene considerata testo puro 
-- **protezione debole** _""_ : proteggono il testo da metacaratteri dei file ( * o ?) ma permettono la traduzione di variabilo ($), eseguire comandi ('') e usare i backslash ( \ ) 
+- **protezione debole** _""_ : proteggono il testo da metacaratteri dei file ( * o ?) ma permettono la traduzione di variabil ($), eseguire comandi ('') e usare i backslash   ( \ ) 
 
 **_REALIZZAZIONE DI FILE COMANDI_**
 un file comandi è una sequenza di comandi e può comprendere:
@@ -302,10 +302,5 @@ con _while_ o _until_
 ![[Pasted image 20260329160806.png|328]] 
 
 
-
 [[TABELLA RIASSUNTIVA SHELL SCRIPTING]]
-
 [[ESEMPI SHELL SCRIPTING]]
-
-
-

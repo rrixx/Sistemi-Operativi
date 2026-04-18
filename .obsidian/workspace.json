@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/10. File Comandi Unix.md",
+                "file": "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10. File Comandi Unix"
+              "title": "LISTA COMANDI UNIX"
             }
           }
         ],
@@ -209,21 +209,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "0a031c42f76ac2e4",
-            "type": "leaf",
-            "state": {
-              "type": "file-properties",
-              "state": {
-                "file": "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md"
-              },
-              "icon": "lucide-info",
-              "title": "Proprietà file per ESEMPI SHELL SCRIPTING"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
@@ -242,12 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "ae03686baf1aa11c",
+  "active": "e18e8c36830b6592",
   "lastOpenFiles": [
-    "Sistemi Operativi/1. Introduzione.md",
     "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
-    "Sistemi Operativi/10. File Comandi Unix.md",
     "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
+    "Sistemi Operativi/10 File Comandi Unix.md",
     "Sistemi Operativi/2. Struttura di un SO.md",
     "Sistemi Operativi/_assets/TABELLA RIASSUNTIVA SHELL SCRIPTING.md",
     "Sistemi Operativi/9. File System Unix.md",
