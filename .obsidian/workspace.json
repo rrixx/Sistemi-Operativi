@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "TABELLA RIASSUNTIVA SHELL SCRIPTING"
             }
-          },
-          {
-            "id": "e18e8c36830b6592",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "LISTA COMANDI UNIX"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "a89cbd462c972d38",
@@ -209,9 +194,21 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0a031c42f76ac2e4",
+            "type": "leaf",
+            "state": {
+              "type": "file-properties",
+              "state": {
+                "file": "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md"
+              },
+              "icon": "lucide-info",
+              "title": "Proprietà file per ESEMPI SHELL SCRIPTING"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -230,11 +227,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e18e8c36830b6592",
+  "active": "e5c1c9e78448fe1d",
   "lastOpenFiles": [
+    "Sistemi Operativi/10. File Comandi Unix.md",
+    "Sistemi Operativi/1. Introduzione.md",
     "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
+    "Sistemi Operativi/10. File Comandi Unix.md",
     "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
-    "Sistemi Operativi/10 File Comandi Unix.md",
     "Sistemi Operativi/2. Struttura di un SO.md",
     "Sistemi Operativi/_assets/TABELLA RIASSUNTIVA SHELL SCRIPTING.md",
     "Sistemi Operativi/9. File System Unix.md",
@@ -266,7 +265,6 @@
     "Sistemi Operativi/_assets/Screenshot 2026-03-20 171511.png",
     "Sistemi Operativi/_assets/Screenshot 2026-03-20 161803.png",
     "Sistemi Operativi/_assets/esempi vari.md",
-    "Sistemi Operativi/_assets/struttura di tipo stat.md",
     "Untitled.canvas",
     "gestione dispositivi di I",
     "dispositivi di I",
