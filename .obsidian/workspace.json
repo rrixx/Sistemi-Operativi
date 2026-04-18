@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
+                "file": "Sistemi Operativi/10. File Comandi Unix.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "LISTA COMANDI UNIX"
+              "title": "10. File Comandi Unix"
             }
           }
         ],
@@ -230,11 +230,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e18e8c36830b6592",
+  "active": "e5c1c9e78448fe1d",
   "lastOpenFiles": [
-    "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
     "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
-    "Sistemi Operativi/10 File Comandi Unix.md",
+    "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
+    "Sistemi Operativi/10. File Comandi Unix.md",
     "Sistemi Operativi/2. Struttura di un SO.md",
     "Sistemi Operativi/_assets/TABELLA RIASSUNTIVA SHELL SCRIPTING.md",
     "Sistemi Operativi/9. File System Unix.md",
