@@ -55,7 +55,7 @@ Questo script crea copie di sicurezza. Se l'argomento è una directory, ne crea 
 if [ $# -ne 2 ]
 then
     echo "USAGE: backup.sh <filename> <backupstring>"
-    exit 1 [cite: 1174]
+    exit 1
 fi
 
 # Se il primo argomento è una directory [cite: 1175, 1176]

@@ -1,54 +1,62 @@
+
 ```shell
-# --- INFORMAZIONI DI SISTEMA E SESSIONE ---
-date                    # Mostra data e ora corrente
-who                     # Elenca gli utenti connessi al sistema
-whoami                  # Mostra il proprio username
-top                     # Monitoraggio processi in tempo reale
-ps                      # Mostra i processi attivi dell'utente
-passwd                  # Cambia la propria password
-exit                    # Chiude la shell corrente (non di login)
-logout                  # Chiude la shell di login (o CTRL+D)
+# ==========================================================
+# INFORMAZIONI DI SISTEMA E SESSIONE
+# ==========================================================
+date                    # Visualizza la data e l'ora corrente del sistema 
+who                     # Elenca gli utenti attualmente connessi al sistema 
+whoami                  # Restituisce lo username della sessione corrente 
+top                     # Monitora in tempo reale i processi e l'uso delle risorse 
+ps [opzioni]            # Mostra i processi attivi; 'aux' elenca tutti i processi 
+passwd                  # Permette all'utente di cambiare la propria password di accesso 
+exit                    # Termina la sessione di una shell (anche non di login) 
+logout                  # Chiude la sessione della shell di login corrente 
 
-# --- NAVIGAZIONE FILE SYSTEM ---
-pwd                     # Stampa il percorso della directory corrente
-cd                      # Torna alla Home directory
-cd /percorso/assoluto   # Spostamento tramite percorso assoluto
-cd ../percorso/relativo # Spostamento tramite percorso relativo
-# .                     # Indica la directory corrente
-# ..                    # Indica la directory padre
+# ==========================================================
+# NAVIGAZIONE E FILE SYSTEM
+# ==========================================================
+pwd                     # Print Working Directory: stampa il percorso assoluto corrente [cite: 1880, 695]
+cd [directory]          # Cambia directory di lavoro; senza argomenti torna alla home 
+ls [opzioni] [file/dir] # Elenca i file e le cartelle nel direttorio specificato
+# Opzioni ls comuni:
+# -l (long format), -a (tutti inclusi i nascosti), -t (ordine cronologico), 
+# -u (ordine per accesso), -r (ordine inverso), -F (classifica tipo file) 
 
-# --- LISTING E VISUALIZZAZIONE FILE (ls) ---
-ls                      # Elenca i file nella directory corrente
-ls -l                   # Formato lungo: permessi, proprietari, dimensioni
-ls -a                   # Mostra anche i file nascosti (che iniziano con .)
-ls -t                   # Ordina per data di ultima modifica
-ls -u                   # Ordina per data di ultimo accesso
-ls -r                   # Inverte l'ordine di visualizzazione
-ls -F                   # Classifica i file (es. / per directory, * eseguibili)
-man ls                  # Apre il manuale del comando ls (q per uscire)
+# ==========================================================
+# GESTIONE FILE E DIRECTORY
+# ==========================================================
+> nome_file             # Crea un file vuoto o sovrascrive uno esistente 
+mkdir nome_directory    # Crea una nuova directory nel percorso specificato 
+rmdir nome_directory    # Elimina una directory solo se è vuota 
+rm nome_file            # Rimuove/elimina uno o più file [cite: 2232, 1047]
+cp [opzioni] src dest   # Copia file o directory; '-R' copia ricorsivamente le cartelle 
+mv src dest             # Sposta o rinomina file e directory 
 
-# --- GESTIONE FILE E DIRECTORY ---
-> file.txt              # Crea un file vuoto (o svuota uno esistente)
-mkdir nome_dir          # Crea una nuova directory
-rmdir nome_dir          # Elimina una directory (solo se vuota)
-rm nome_file            # Elimina un file (operazione definitiva)
-cp src dest             # Copia un file o directory
-mv src dest             # Sposta o rinomina un file/directory
+# ==========================================================
+# VISUALIZZAZIONE E MANIPOLAZIONE DATI
+# ==========================================================
+cat [file...]           # Visualizza l'intero contenuto di uno o più file di testo 
+more [file...]          # Visualizza il contenuto di un file una schermata alla volta 
+grep "stringa" [file]   # Ricerca una sequenza di caratteri specifica in un file
+wc [opzioni] [file]     # Conta linee (-l), parole (-w) o caratteri (-c) 
+cut -f[N] -d[sep] file  # Seleziona e stampa colonne specifiche con un delimitatore 
+head -n [N]             # Mostra le prime N righe di un output o di un file 
+sort [opzioni]          # Ordina le righe di testo; '-n' per ordinamento numerico 
 
-# --- LETTURA E MANIPOLAZIONE CONTENUTO ---
-cat file.txt            # Visualizza tutto il contenuto del file
-more file.txt           # Visualizza il file una pagina alla volta
-grep "testo" file.txt   # Cerca una stringa dentro il file
-wc -l file.txt          # Conta le linee (-w parole, -c caratteri)
-cut -f1 -d: file.txt    # Estrae colonne/sezioni di testo
+# ==========================================================
+# PERMESSI E PROPRIETÀ
+# ==========================================================
+chmod [mode] file       # Modifica permessi (R=4, W=2, X=1) in formato ottale o simbolico
+chown utente file       # Cambia l'utente proprietario del file (richiede privilegi root)
+chgrp gruppo file       # Cambia il gruppo proprietario del file (richiede privilegi root)
 
-# --- PERMESSI E PROTEZIONE (chmod) ---
-# Formato Ottale: R=4, W=2, X=1 (es. 7=rwx, 6=rw-, 5=r-x)
-chmod 755 file          # U:rwx, G:r-x, O:r-x
-chmod 644 file          # U:rw-, G:r--, O:r--
-# Formato Simbolico: u=user, g=group, o=others, a=all
-chmod u+x file          # Aggiunge esecuzione al proprietario
-chmod a-w file          # Toglie scrittura a tutti
-chown user file         # Cambia proprietario (solo root)
-chgrp group file        # Cambia gruppo (solo root)
+# ==========================================================
+# UTILITÀ DELLA SHELL
+# ==========================================================
+man comando             # Apre il manuale elettronico per consultare la documentazione 
+help                    # Visualizza la lista dei comandi integrati (builtin) della shell 
+type comando            # Indica se un comando è definito internamente o esternamente 
+echo [testo]            # Stampa il testo o le variabili sullo standard output 
+expr [espressione]      # Valuta espressioni aritmetiche (es: somma tra variabili) 
+apt-get install [pkg]   # Scarica e installa pacchetti software (es: Debian/Ubuntu) 
 ```
