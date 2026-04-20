@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "a80dc423bbfc5ff3",
+        "id": "3d433f5d81ca11c8",
         "type": "tabs",
         "children": [
           {
-            "id": "f494c972c8a5fa51",
+            "id": "f986173d52d94bb4",
             "type": "leaf",
             "state": {
               "type": "empty",
@@ -165,10 +165,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f494c972c8a5fa51",
+  "active": "f986173d52d94bb4",
   "lastOpenFiles": [
-    "conflict-files-obsidian-git.md",
+    "Sistemi Operativi/1. Introduzione.md",
+    "/Sistemi Operativi/1. Introduzione.md",
     "Sistemi Operativi/10 File Comandi Unix.md",
+    "Sistemi Operativi/10. File Comandi Unix.md",
+    "/Sistemi Operativi/10. File Comandi Unix.md",
+    "/Sistemi Operativi",
+    "conflict-files-obsidian-git.md",
     "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
     "Sistemi Operativi/1. Intro.md",
     "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
@@ -179,7 +184,6 @@
     "/Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
     "/Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
     "/Sistemi Operativi/_assets",
-    "/Sistemi Operativi",
     "Sistemi Operativi/_assets/sostituzione di codice e dati.md",
     "Sistemi Operativi/_assets/varianti system call exec().md",
     "Sistemi Operativi/_assets/esempio comunicazione tra padre e figlio.md",
@@ -191,10 +195,6 @@
     "Sistemi Operativi/_assets/esempio struttura di controllo con più comandi.md",
     "Sistemi Operativi/_assets/esempi variabili nella shell.md",
     "Sistemi Operativi/_assets/esempi struture di controllo.md",
-    "Sistemi Operativi/_assets/esempi ridirezione input e output.md",
-    "Sistemi Operativi/_assets/esempi metacaratteri.md",
-    "Sistemi Operativi/_assets/esempi comando awk.md",
-    "Sistemi Operativi/_assets/esempi cicli for.md",
     "Sistemi Operativi/_assets/Screenshot 2026-03-29 154820.png",
     "Sistemi Operativi/_assets/Pasted image 20260329160806.png",
     "Sistemi Operativi/_assets/Pasted image 20260329160437.png",
