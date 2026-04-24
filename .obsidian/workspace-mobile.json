@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sistemi Operativi/_assets/esempi comando awk.md",
+                "file": "Sistemi Operativi/10. File Comandi Unix.md",
                 "mode": "preview",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "esempi comando awk"
+              "title": "10. File Comandi Unix"
             }
           },
           {
@@ -200,12 +200,14 @@
   },
   "active": "06a5f093453cf186",
   "lastOpenFiles": [
+    "Sistemi Operativi/10. File Comandi Unix.md",
+    "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
     "Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
     "Sistemi Operativi/_assets/TABELLA RIASSUNTIVA SHELL SCRIPTING.md",
+    "Sistemi Operativi/_assets/esempi cicli for.md",
+    "Sistemi Operativi/9. File System Unix.md",
     "Sistemi Operativi/_assets/esempi comando awk.md",
-    "Sistemi Operativi/10. File Comandi Unix.md",
     "Sistemi Operativi/_assets/esempi metacaratteri.md",
-    "Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
     "Sistemi Operativi/1. Introduzione.md",
     "/Sistemi Operativi/1. Introduzione.md",
     "Sistemi Operativi/10 File Comandi Unix.md",
@@ -215,7 +217,6 @@
     "Sistemi Operativi/1. Intro.md",
     "Sistemi Operativi/4. Processi Unix.md",
     "Sistemi Operativi/7. Segnali Unix.md",
-    "Sistemi Operativi/9. File System Unix.md",
     "/Sistemi Operativi/_assets/ESEMPI SHELL SCRIPTING.md",
     "/Sistemi Operativi/_assets/LISTA COMANDI UNIX.md",
     "/Sistemi Operativi/_assets",
@@ -227,7 +228,6 @@
     "Sistemi Operativi/_assets/ESERCIZIO GESTIONE FILE.md",
     "Sistemi Operativi/_assets/segnali nel sistema.md",
     "Sistemi Operativi/_assets/esempio valutazione di espressione.md",
-    "Sistemi Operativi/_assets/esempio struttura di controllo con più comandi.md",
     "Sistemi Operativi/_assets/Screenshot 2026-03-29 154820.png",
     "Sistemi Operativi/_assets/Pasted image 20260329160806.png",
     "Sistemi Operativi/_assets/Pasted image 20260329160437.png",
