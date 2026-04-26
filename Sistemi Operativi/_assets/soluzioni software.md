@@ -20,14 +20,18 @@ typedef struct{
 } semaphore;
 
 void p(semaphore *s) {
-	if (s->value==0)
-	/* s->Qs descrittore processo inserito nella coda */
-	else s->value--;
+	if (s->value==0){ //se non ci sono risorse disponibili 
+		s->Qs // descrittore processo inserito nella coda 
+	}
+	else s->value--; // altrimenti ne estrae una 
 }
 
 void v(semaphore *s) {
-	if (/* Qs non e` vuota*/)
-	else s->value++;
+	if (/* Qs non e` vuota*/){
+		<processo p=processo estratto dalla coda>
+		<processo rimesso in esecuzione>
+	}
+	else s->value++; //altrimenti nessuno stava aspettando, aumento il numero di risorse 
 }
 ```
 

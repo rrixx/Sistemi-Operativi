@@ -4,7 +4,7 @@
 ![[Pasted image 20260421164853.png|450]]
 problemi:
 - limitato a sezioni critiche eseguite sullo stesso processore
-- elimina lpossobilità di concorrenza
+- elimina la possobilità di concorrenza
 - insensibilità del sistema
 
 precedentemente si è supposta la mutua esclusione tra lettura e scrittura in memoria
