@@ -69,3 +69,10 @@ void v(semaphore *s) {
 ```
 
 [[esempi d'uso dei semafori ]] 
+
+
+_**REALIZZAZIONE DI POLITICHE DI GESTIONE DELLE RISORSE**_
+![[Pasted image 20260426095236.png|425]]
+_politica_: un lettore aspetta solo se la risorgsa è gia stata assegnata ad un processo scrittore, dunque la priorità nell'accesso alla risorsa è dei lettori 
+
+![[Pasted image 20260426095433.png|370]]
