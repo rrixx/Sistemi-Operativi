@@ -1,0 +1,9 @@
+**VINCOLO DI PRECEDENZA**
+![[Pasted image 20260421172444.png|422]]
+![[Screenshot 2026-04-21 172402.png|425]]
+
+**COMUNICAZIONE CON BUFFER DI CAPACITA 1**
+![[Pasted image 20260421172536.png|419]]
+
+
+
