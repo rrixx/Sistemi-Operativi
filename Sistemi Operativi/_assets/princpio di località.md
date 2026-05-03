@@ -1,0 +1,1 @@
+i programmi tendono ad accedere alle stesse zone di memoria per periodo di tempo simili e a zone vicine tra di loro

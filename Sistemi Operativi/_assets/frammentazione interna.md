@@ -1,0 +1,1 @@
+se il proceso è più piccolo della partizione, lo spazio in piu virne sprecato 

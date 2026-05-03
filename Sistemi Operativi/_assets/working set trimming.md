@@ -1,0 +1,1 @@
+quando la memoria fisica scende sotto una certa soglia, il SO automaticamente ristabilisce la quotadesiderata di frame liberi eliminando pagine appartenenti a processi che ne hanno in eccesso rispetto a working set minimo
