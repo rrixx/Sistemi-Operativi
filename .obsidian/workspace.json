@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 497.5
+    "width": 310.5
   },
   "right": {
     "id": "ab9a40372601e856",
@@ -203,10 +203,11 @@
       "daily-notes:Apri nota del giorno": false,
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
-      "bases:Crea nuova Base": false
+      "bases:Crea nuova Base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
-  "active": "f55736f13b22c143",
+  "active": "e5c1c9e78448fe1d",
   "lastOpenFiles": [
     "Sistemi Operativi/13. Gestione Memoria Centrale.md",
     "Pasted image 20260503192812.png",
