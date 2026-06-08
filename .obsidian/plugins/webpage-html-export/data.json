@@ -12,7 +12,7 @@
     "inlineHTML": false,
     "exportPath": "/home/riccardo-febbo/Scrivania",
     "filesToExport": [
-      "all"
+      "Sistemi Operativi/15. Monitor in Java.md"
     ],
     "useFallbackRenderer": false,
     "addBodyClasses": true,
@@ -207,7 +207,7 @@
     "inlineFonts": true,
     "inlineOther": true,
     "combineAsSingleFile": true,
-    "offlineResources": false,
+    "offlineResources": true,
     "themeName": "",
     "slugifyPaths": true,
     "flattenExportPaths": false,
@@ -215,7 +215,7 @@
     "faviconPath": "",
     "siteName": "Sistemi-Operativi",
     "iconEmojiStyle": "Native",
-    "exportRoot": "",
+    "exportRoot": "Sistemi Operativi",
     "includePluginCss": [],
     "includeStyleCssIds": [],
     "autoDisposeWebpages": true
