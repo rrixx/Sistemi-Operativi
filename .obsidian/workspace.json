@@ -205,8 +205,7 @@
       "templates:Inserisci modello": false,
       "command-palette:Apri riquadro comandi": false,
       "bases:Crea nuova Base": false,
-      "obsidian-git:Open Git source control": false,
-      "webpage-html-export:Esporta come HTML": false
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "bd2869b493b7ae00",
